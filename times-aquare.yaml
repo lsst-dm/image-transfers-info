@@ -1,0 +1,4 @@
+enabled: true
+description: >
+  Notebooks for image transfer times - initially LSSTcam images from summit to USDF.
+  Could add france ..

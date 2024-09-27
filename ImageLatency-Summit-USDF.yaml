@@ -1,0 +1,11 @@
+title: Summit to USDF image latency
+description: Calculate shutter close time to existance of image in USDF - plot historgram of times.
+authors:
+  - name: William O'Mullane
+    slack: womjllan
+parameters:
+  day:
+    type: string
+    description: DayObs (YYYYMMDD)
+    default: "20240926"
+

@@ -7,5 +7,5 @@ parameters:
   day:
     type: string
     description: DayObs (YYYYMMDD)
-    default: "20240926"
+    default: "20240930"
 

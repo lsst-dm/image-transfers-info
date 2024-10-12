@@ -9,10 +9,10 @@ parameters:
     type: string
     description: Instrument
     default: "LATISS"
-  repo:
+  brepo:
     type: string
-    description: repo
-    default: "/repo/embargo"
+    description: butler repo
+    default: "embargo"
   collection:
     type: string
     description: collection

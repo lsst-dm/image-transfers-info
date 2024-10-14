@@ -2,7 +2,7 @@ title: Summit to USDF image latency
 description: Calculate shutter close time to existance of image in USDF - plot historgram of times.
 authors:
   - name: William O'Mullane
-    slack: womjllan
+    slack: womullan
 parameters:
   day:
     type: string

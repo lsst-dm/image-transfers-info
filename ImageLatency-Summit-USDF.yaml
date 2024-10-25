@@ -9,3 +9,7 @@ parameters:
     description: DayObs (YYYYMMDD)
     default: "20240930"
 
+  instrument:
+    type: string
+    description: Instrumwnt ( LSSTCam, LSSTComCam, LATISS)
+    default: "LSSTCam"

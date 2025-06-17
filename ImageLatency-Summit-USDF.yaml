@@ -7,7 +7,7 @@ parameters:
   day:
     type: string
     description: DayObs (YYYYMMDD)
-    format: dayobs-date
+    format: dayobs
     dynamic_default: "yesterday"
 
   instrument:
